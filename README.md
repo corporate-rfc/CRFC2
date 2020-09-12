@@ -56,7 +56,9 @@ The category of Do It Later is a communication indicating that the system requir
 
 Do It Later communication SHALL NOT generate alerts.
 
-In order to process Do It Later communication, this communication should be reviewed at a regular cadence that is appropriate for timely action.
+In order to process Do It Later communication, it SHOULD be reviewed at a regular cadence that is appropriate for timely action.
+
+_CAUTION: If Do It Later communication is not reviewed at an appropriate regular cadence, it may result in violation of service level objectives or service level agreements._
 
 NOTE: If a system is producing a Do It Later communication, it is an opportunity for improvement. An ideal system design would not have Do It Later communications. In practice, Do It Later communications highlight existence of human-level tasks that may be difficult to automate.
 
