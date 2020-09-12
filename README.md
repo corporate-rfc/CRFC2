@@ -1,5 +1,5 @@
 Corporate RFC<br/>
-Corporate Request For Comments: DRAFT
+Corporate Request For Comments: 2
 
 Tristan Slominski
 
@@ -13,7 +13,7 @@ This document describes a model for thinking about how systems communicate with 
 
 ## Status of this Memo
 
-This document is a draft prior to publication.
+This document is published to describe a model of operation.
 
 ## Copyright Notice
 
@@ -70,7 +70,7 @@ There are no known security considerations.
 
 ## Acknowledgments
 
-This model is not novel to this document. However, the author no longer recalls the original source of this model.
+The described model is not novel to this document. However, the author no longer recalls the original source of this model.
 
 ## Author's Address
 
