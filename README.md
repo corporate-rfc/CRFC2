@@ -46,7 +46,7 @@ Logs MAY be stored in case a person wants to look at them later in order to gain
 
 ## 3. Do It Now
 
-The category of Do It Now is an emergency communication. The system requires immediate human intervention because a service level objective or a service level agreement was violated or imminently will be.
+The category of Do It Now is an emergency communication. The system requires immediate human intervention because a system objective or a system agreement was violated or imminently will be.
 
 Do It Now communication SHALL generate alerts.
 
@@ -58,7 +58,7 @@ Do It Later communication SHALL NOT generate alerts.
 
 In order to process Do It Later communication, it SHOULD be reviewed at a regular cadence that is appropriate for timely action.
 
-_CAUTION: If Do It Later communication is not reviewed at an appropriate regular cadence, it may result in violation of service level objectives or service level agreements._
+_CAUTION: If Do It Later communication is not reviewed at an appropriate regular cadence, it may result in violation of system objectives or system agreements._
 
 NOTE: If a system is producing a Do It Later communication, it is an opportunity for improvement. An ideal system design would not have Do It Later communications. In practice, Do It Later communications highlight existence of human-level tasks that may be difficult to automate.
 
