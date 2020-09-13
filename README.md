@@ -25,8 +25,9 @@ Copyright (c) 2020 the persons identified as the document authors. All rights re
 2. [Logs](#2-logs)
 3. [Do It Now](#3-do-it-now)
 4. [Do It Later](#4-do-it-later)
-5. [Responding To Alerts](#5-responding-to-alerts)
-6. [Security Considerations](#6-security-considerations)
+5. [Alert](#5-alert)
+6. [Responding To Alerts](#6-responding-to-alerts)
+7. [Security Considerations](#7-security-considerations)
 
 ## 1. Introduction
 
@@ -62,11 +63,15 @@ _CAUTION: If Do It Later communication is not reviewed at an appropriate regular
 
 NOTE: If a system is producing a Do It Later communication, it is an opportunity for improvement. An ideal system design would not have Do It Later communications. In practice, Do It Later communications highlight existence of human-level tasks that may be difficult to automate.
 
-## 5. Responding To Alerts
+## 5. Alert
+
+Alert is an emergency communication that is intended to interrupt normal operations and introduce a shift in focus toward the subject of emergency communication.
+
+## 6. Responding To Alerts
 
 Alerts SHALL consist only of Do It Now communications. Alerts SHALL be actionable. If an alert is received, it is always an indication of failure. The failure is either of the system or the alert trigger itself. Upon receipt of an alert, the action is either to recover the system to normal operation, change the alert trigger to be actionable in the future, replace the alert with Do It Later or Logs communications, or delete the alert.
 
-## 6. Security Considerations
+## 7. Security Considerations
 
 There are no known security considerations.
 
