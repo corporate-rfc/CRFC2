@@ -67,7 +67,7 @@ NOTE: All Hours communication can happen at any time, during business hours, or 
 
 ## 5. Alert
 
-Alert is an emergency communication that is intended to interrupt normal operations and introduce a shift in focus toward the subject of emergency communication.
+Alert is an emergency communication that is intended to interrupt normal operations and shift attention toward the subject of emergency communication.
 
 ## 6. Responding To Alerts
 
