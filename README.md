@@ -2,7 +2,8 @@ Corporate RFC<br/>
 Corporate Request For Comments: 2
 
 Tristan Slominski<br/>
-Leora Pearson
+Leora Pearson<br/>
+Dale Schumacher
 
 September 2020
 
@@ -91,3 +92,7 @@ Email: tristan.slominski@gmail.com
 Leora Pearson
 
 Email: lpearson05@gmail.com
+
+Dale Schumacher
+
+Email: dale.schumacher@gmail.com
