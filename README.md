@@ -81,9 +81,9 @@ There are no known security considerations.
 
 ## Acknowledgments
 
-The described model is not novel to this document. However, the author no longer recalls the original source of this model.
+The described model is not novel to this document. However, the authors no longer recall the original source of this model.
 
-## Author's Address
+## Authors' Addresses
 
 Tristan Slominski
 
