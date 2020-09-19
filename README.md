@@ -2,6 +2,7 @@ Corporate RFC<br/>
 Corporate Request For Comments: 2
 
 Tristan Slominski
+Leora Pearson
 
 September 2020
 
@@ -86,3 +87,7 @@ The described model is not novel to this document. However, the author no longer
 Tristan Slominski
 
 Email: tristan.slominski@gmail.com
+
+Leora Pearson
+
+Email: lpearson05@gmail.com
